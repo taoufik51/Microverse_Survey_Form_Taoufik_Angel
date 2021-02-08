@@ -134,3 +134,35 @@ nav{
     height:70;
     background-color: green;
 }
+
+#title{
+
+       text-align: center;
+}
+
+#description{
+
+      text-align: center;
+      font-size: 22px;
+      color: black;
+}
+  
+  
+@media screen and (max-width: 600px) {
+    #navbar #navbar, 
+    #navbar #navbar1 {float: none;}
+
+    
+}
+
+
+
+
+
+
+@media screen and (max-width: 1200px) {
+  #comment{width: 340px;}
+    
+    
+} 
+
