@@ -7,6 +7,38 @@ body{
     color: black;
     }
 
+nav{
+        background-color: #111;
+        height:   100px;
+        width: 100%;
+        margin: auto;
+        
+      }
+     
+      nav  ul{
+        float: right;
+        margin-right:  20px;
+        
+        }
+        
+        nav  ul li{
+        display: inline-block;
+        line-height: 80px;
+        margin: 0px  5px;
+        
+        }
+        nav ul li a{
+        color: blue;
+        font-size: 17px;
+        padding: 7px 13px;
+        border-radius: 3px;
+        text-transform: uppercase;
+        }
+        a.active,a:hover{
+        background: red;
+        transition: .5s;
+        }
+
     #survey-form{
 
         border: solid 40px rgb(118, 49, 209);
