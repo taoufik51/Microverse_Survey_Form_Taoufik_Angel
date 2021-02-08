@@ -1,0 +1,104 @@
+body{
+    font-family:'Roboto Slab' , serif;
+    
+    margin: 0px;
+    padding:0px;
+    background-color: rgb(5,173,162);
+    color: black;
+    }
+
+    #survey-form{
+
+        border: solid 40px rgb(118, 49, 209);
+       
+        color: white;
+        text-align: center;
+    
+    
+    }
+
+#name-label {
+
+     font-size:x-large;
+     margin: auto;
+    
+
+}
+
+#name{
+
+      font-size: x-large;
+      
+}
+
+
+#email-label{
+
+
+    font-size:x-large;
+    
+    margin: auto;
+}
+
+#email{
+
+    font-size: x-large;
+}
+
+#number-label{
+
+
+    font-size:x-large;
+    
+    margin: auto;
+}
+
+#number{
+
+    font-size: x-large;
+}
+
+#dropdown-question1{
+
+     font-size:x-large;
+     margin: auto;
+
+}
+
+
+#dropdown{
+
+    font-size: x-large;
+}
+    
+#dropdown-question2{
+
+    font-size:x-large;
+    margin: auto;
+
+}
+
+
+#dropdown-question3{
+
+    font-size:x-large;
+    margin: auto;
+
+}
+
+
+#dropdown-question4{
+
+    font-size:x-large;
+    margin: auto;
+
+}
+
+#submit{
+
+
+    font-size: x-large;
+    width: 400px;
+    height:70;
+    background-color: green;
+}
